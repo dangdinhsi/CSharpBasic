@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sidang\\source\\repos\\TrainningCSharp\\TestCRUD_LIST\\TestCRUD_LIST.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sidang\\source\\repos\\TrainningCSharp\\TestCRUD_LIST\\TestCRUD_LIST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sidang\\source\\repos\\TrainningCSharp\\TestCRUD_LIST\\TestCRUD_LIST.csproj",
+        "projectName": "TestCRUD_LIST",
+        "projectPath": "C:\\Users\\Sidang\\source\\repos\\TrainningCSharp\\TestCRUD_LIST\\TestCRUD_LIST.csproj",
+        "packagesPath": "C:\\Users\\Sidang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sidang\\source\\repos\\TrainningCSharp\\TestCRUD_LIST\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sidang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

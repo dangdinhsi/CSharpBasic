@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\Sidang\source\repos\TrainningCSharp\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache

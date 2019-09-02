@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\bin\Debug\netcoreapp2.1\BT83.deps.json
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\bin\Debug\netcoreapp2.1\BT83.runtimeconfig.json
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\bin\Debug\netcoreapp2.1\BT83.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\bin\Debug\netcoreapp2.1\BT83.dll
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\bin\Debug\netcoreapp2.1\BT83.pdb
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\obj\Debug\netcoreapp2.1\BT83.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\obj\Debug\netcoreapp2.1\BT83.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\obj\Debug\netcoreapp2.1\BT83.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\obj\Debug\netcoreapp2.1\BT83.dll
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\obj\Debug\netcoreapp2.1\BT83.pdb
+C:\Users\Sidang\source\repos\TrainningCSharp\BT83\obj\Debug\netcoreapp2.1\BT83.csprojAssemblyReference.cache

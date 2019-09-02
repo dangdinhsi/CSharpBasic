@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\bin\Debug\netcoreapp2.1\TestCRUD_LIST.deps.json
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\bin\Debug\netcoreapp2.1\TestCRUD_LIST.runtimeconfig.json
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\bin\Debug\netcoreapp2.1\TestCRUD_LIST.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\bin\Debug\netcoreapp2.1\TestCRUD_LIST.dll
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\bin\Debug\netcoreapp2.1\TestCRUD_LIST.pdb
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\obj\Debug\netcoreapp2.1\TestCRUD_LIST.csprojAssemblyReference.cache
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\obj\Debug\netcoreapp2.1\TestCRUD_LIST.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\obj\Debug\netcoreapp2.1\TestCRUD_LIST.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\obj\Debug\netcoreapp2.1\TestCRUD_LIST.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\obj\Debug\netcoreapp2.1\TestCRUD_LIST.dll
+C:\Users\Sidang\source\repos\TrainningCSharp\TestCRUD_LIST\obj\Debug\netcoreapp2.1\TestCRUD_LIST.pdb
